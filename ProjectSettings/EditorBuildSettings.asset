@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Clear.unity
+    guid: 760f30e52be0e8b4e874916789475ddc
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: e7f15e86f83e3634995105a6807305dc
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: e75d4dc1f87b9674aba315d00c33ae3f
+  - enabled: 1
+    path: Assets/Scenes/Stage1Clear.unity
+    guid: d0261913103f6ea4195a71669d1b80b5
+  - enabled: 1
+    path: Assets/Scenes/Stage2.unity
+    guid: dc4bf97ab49b3e64684592617e4ee6c4
+  - enabled: 1
+    path: Assets/Scenes/Stage2Clear.unity
+    guid: 37dcbfe77f5bb5843bfbb110b97e57b0
+  - enabled: 1
+    path: Assets/Scenes/Stage3.unity
+    guid: df5058ecd91645741bfbdcb5739610d9
+  - enabled: 1
+    path: Assets/Scenes/Stage3Clear.unity
+    guid: f7374543aafd5794698689546ae3c4ba
+  - enabled: 1
+    path: Assets/Scenes/StageSlect.unity
+    guid: a48caf07e983f1d4bbbfe280e9312346
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ba5fc20a0fb53d148923de05c27104a3
+  m_configObjects: {}
